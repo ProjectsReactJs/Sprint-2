@@ -26,3 +26,7 @@ As a StatPGX user I need to be able to provide my personal demographic informati
 
 #### Imagen de ejecución
 ![](https://i.imgur.com/rPahTeT.png)
+
+## URL del Jira
+A continuación veran un url donde se encuentra cargada la actividades que se muestra en la parte superior.
+https://oficinatrabajo002.atlassian.net/jira/software/c/projects/STAT/boards/87/backlog?selectedIssue=STAT-20&issueLimit=100
