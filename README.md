@@ -8,7 +8,7 @@ As a StatPGX user I want to be able to view additional information in the UI by 
 #### Imagen de ejecución
 ![](https://i.imgur.com/YfL2NDg.png)
 
-![](https://i.imgur.com/cNDAYGc.png)
+![](https://i.imgur.com/JrXMVYh.png)
 
 ![](https://i.imgur.com/gZn3wf0.png)
 
